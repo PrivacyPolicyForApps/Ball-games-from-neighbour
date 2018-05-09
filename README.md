@@ -30,7 +30,7 @@ We may disclose User Provided and Automatically Collected Information:
 
  - to advertisers and third party advertising networks and analytics companies as described in the section below.
  
- ### Automatic Data Collection and Advertising
+### Automatic Data Collection and Advertising
 
 We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non- precise location information in order to help analyze and serve anonymous targeted advertising on the Application and elsewhere. 
 
